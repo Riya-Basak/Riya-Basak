@@ -1,6 +1,54 @@
 <h1 align="center">Hi 👋, This is Riya Basak</h1>
 <h3 align="center">Computer Science and Engineering Student at American International University - Bangladesh</h3>
 
+**Software Quality Assurance (SQA) Professional | MSc in Computer Science (Ongoing)**
+
+---
+
+🎯 **About Me**
+
+I'm a motivated Software Quality Assurance professional currently working at **Bponi Limited**, with a strong academic background and practical experience in testing. I’m also pursuing my **Master’s in Computer Science** at **American International University-Bangladesh (AIUB)**.
+
+I have hands-on experience in:
+
+- ✅ Functional and Regression Testing  
+- 🤖 Automation Frameworks (e.g., Selenium, Playwright)  
+- 🐞 Bug Reporting & Tracking  
+- 🧪 Test Case Design and Execution  
+- 📱 Web and Mobile Application Testing  
+
+Passionate about ensuring high-quality software through structured testing and effective teamwork.
+
+---
+
+🎓 **Education**
+
+- **MSc in Computer Science** *(Ongoing)*  
+  American International University-Bangladesh (AIUB)  
+- **BSc in Computer Science & Engineering**  
+  [Your University Name – if different from AIUB]
+
+---
+
+💼 **Current Role**
+
+- **Junior SQA Engineer**  
+  Bponi Limited  
+  _[Month, Year] – Present_
+
+Responsibilities include test planning, writing/executing test cases, reporting bugs, regression testing, and collaborating with developers for quality improvements.
+
+---
+
+🔧 **Skills**
+
+- **Languages:** Java, Python (basic)
+- **Tools:** Selenium, Playwright, Postman, JIRA, TestRail, Git  
+- **Testing Types:** Manual Testing, Automation Testing, API Testing, Regression Testing
+
+---
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riya-basak" alt="riya-basak" /></a> </p>
 
 - 🌱 I’m currently learning **Automation Testing**
