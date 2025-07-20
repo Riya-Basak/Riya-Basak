@@ -3,12 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riya-basak" alt="riya-basak" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Automation Testing**
 
 - 📫 How to reach me **riyabasak121@gmail.com**
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fscaler-create-impact-coding-programming-chill-gif-24991316&psig=AOvVaw1pjgq__FHJ7FEjOxFAdM-9&ust=1684437739259000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDNzdqJ_f4CFQAAAAAdAAAAABAp">
-
+/* <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fscaler-create-impact-coding-programming-chill-gif-24991316&psig=AOvVaw1pjgq__FHJ7FEjOxFAdM-9&ust=1684437739259000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDNzdqJ_f4CFQAAAAAdAAAAABAp">
+*/
 
 
 
