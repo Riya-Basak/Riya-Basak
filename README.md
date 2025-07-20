@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, This is Riya Basak</h1>
-<h3 align="center">Computer Science and Engineering Student at American International University - Bangladesh</h3>
+<h3 align="center">**Software Quality Assurance (SQA) Professional | MSc in Computer Science (Ongoing)**</h3>
 
-**Software Quality Assurance (SQA) Professional | MSc in Computer Science (Ongoing)**
 
 ---
 
@@ -12,7 +11,7 @@ I'm a motivated Software Quality Assurance professional currently working at **B
 I have hands-on experience in:
 
 - ✅ Functional and Regression Testing  
-- 🤖 Automation Frameworks (e.g., Selenium, Playwright)  
+- 🤖 Automation Frameworks (e.g., Selenium, Playwright, Cucumber, Cypress)  
 - 🐞 Bug Reporting & Tracking  
 - 🧪 Test Case Design and Execution  
 - 📱 Web and Mobile Application Testing  
@@ -26,15 +25,12 @@ Passionate about ensuring high-quality software through structured testing and e
 - **MSc in Computer Science** *(Ongoing)*  
   American International University-Bangladesh (AIUB)  
 - **BSc in Computer Science & Engineering**  
-  [Your University Name – if different from AIUB]
-
 ---
 
 💼 **Current Role**
 
 - **Junior SQA Engineer**  
   Bponi Limited  
-  _[Month, Year] – Present_
 
 Responsibilities include test planning, writing/executing test cases, reporting bugs, regression testing, and collaborating with developers for quality improvements.
 
